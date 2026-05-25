@@ -4,7 +4,7 @@ AI & Data Science undergraduate at Somaiya Vidyavihar University.
 
 ## Currently Exploring
 - Python
-- AI systems
+- AI applications
 - APIs & backend fundamentals
 - Practical software engineering
 
