@@ -6,7 +6,7 @@ AI & Data Science undergraduate at Somaiya Vidyavihar University.
 - Python
 - AI applications
 - APIs & backend fundamentals
-- Practical software engineering
+- Backend fundamentals
 
 ## Experience
 - Marketing Team Member at CodeCell
