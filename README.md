@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harshil Ravariya
 
-<!--
-**theharshilravariya/theharshilravariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science undergraduate at Somaiya Vidyavihar University.
 
-Here are some ideas to get you started:
+## Currently Exploring
+- Python
+- AI systems
+- APIs & backend fundamentals
+- Practical software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Marketing Team Member at CodeCell
+- SEO & Content Strategy Intern at WarpBay
+- Treasurer & Vice President at Leo Club of Bombay Uptown
+
+## Project
+### Gemini API Chatbot Prototype
+Collaborative hackathon project involving Gemini API integration and backend environment configuration.
+
+## Links
+- LinkedIn: https://linkedin.com/in/theharshilravariya
